@@ -13,7 +13,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.llms import OpenAI
 
 # Especifique o caminho para o seu próprio PDF
-pdf_path = r"C:\Users\Citel\Downloads\Notas da versão release 72.361.pdf"
+pdf_path = r"/caminho-para-o-pdf.pdf"
 
 # Extrair o texto do PDF
 print("Extraindo o texto do PDF...")
